@@ -9,6 +9,7 @@ Personal cloud projects I've built hands-on to learn AWS from the AWS Cloud Club
 | # | Project | Services | Status |
 |---|---------|----------|--------|
 | 1 | [Cloud Resume](https://github.com/shaunakperi/AWS-Cloud-Projects/blob/main/AWS-Cloud%20Resume/README.md) | S3, CloudFront | ✅ Complete |
+| 2 | [HR AI Smart Assistant](https://github.com/shaunakperi/AWS-Cloud-Projects/blob/main/AWS-AI-Smart-Assistant/README.md) | Bedrock, S3, OpenSearch, Lambda, DynamoDB | ✅ Complete |
 
 ---
 
