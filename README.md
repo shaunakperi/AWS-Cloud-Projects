@@ -28,8 +28,21 @@ Deployed a personal resume as a static site on AWS — no servers, no frameworks
 - CDN concepts: edge caching, invalidations, origin behavior
 - The difference between S3 URLs and CloudFront distributions
 
----
+### 🤖 HR AI Smart Assistant
 
+Built a fully automated HR assistant that handles employee queries and leave requests around the clock.
+
+**What I built:**
+- Deployed a **Bedrock Agent** with RAG to answer HR policy and benefits questions
+- Stored HR documents in **S3**, indexed via **OpenSearch Serverless**
+- Wired up **Lambda** functions to handle leave and benefits submissions into **DynamoDB**
+
+**What I learned:**
+- How RAG pipelines work with vector search and knowledge bases
+- Connecting Bedrock agents to real AWS actions via action groups
+- End-to-end serverless agent architecture on AWS
+
+---
 
 ## About
 
