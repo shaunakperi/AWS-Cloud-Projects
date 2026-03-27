@@ -17,7 +17,7 @@ This project solves that by deploying a fully automated AI agent that:
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/Architecture.png)
 
 
 
@@ -68,7 +68,7 @@ This project solves that by deploying a fully automated AI agent that:
 ## 💬 Example Interaction
 
 ![Example Interaction](images/example.png)
-![Example Interaction](images/example.png)
+![Example Interaction](images/example2.png)
 
 
 
